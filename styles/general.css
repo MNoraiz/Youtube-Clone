@@ -1,0 +1,15 @@
+p {
+  margin-top: 0;
+  font-family: 'Roboto', sans-serif;
+  margin-bottom: 10px;
+  margin-left: 8px;
+  
+}
+.body{
+  margin: 0;
+  padding-top: 80px;
+  padding-left: 96px;
+  padding-right: 40px;
+  background-color: #F9F9F9;
+  font-family: Roboto, Arial;
+}
